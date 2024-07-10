@@ -1,5 +1,5 @@
 package StringProblem;
-
+//not a optimal solution
 public class Two_string_permutation {
     static String sort(String str){
         char[] arr = str.toCharArray();
